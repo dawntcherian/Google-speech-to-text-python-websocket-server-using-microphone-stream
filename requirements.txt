@@ -10,6 +10,7 @@ idna==2.7
 protobuf==3.6.1
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
+PyAudio==0.2.11
 pytz==2018.7
 requests==2.20.1
 rsa==4.0
