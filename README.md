@@ -11,6 +11,7 @@ Python WebSocket server which converts input audio stream from microphone to tex
 4) Install the dependencies
     
     $ pip install -r requirements.txt
-5) Run
+5) Provide authentication credentials to your application code by setting the environment variable GOOGLE_APPLICATION_CREDENTIALS. (Follow https://cloud.google.com/docs/authentication/getting-started)
+6) Run
 
     $ python websocket_server.py
