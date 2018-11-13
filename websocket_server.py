@@ -66,7 +66,6 @@ class Transcoder(object):
         try:
             self.response_loop(responses)
         except:
-            print("Exception handled")
             self.start()
 
     def stream_generator(self):
