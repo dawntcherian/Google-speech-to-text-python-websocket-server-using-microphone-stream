@@ -15,3 +15,5 @@ Python WebSocket server which converts input audio stream from microphone to tex
 6) Run
 
     $ python websocket_server.py
+    
+    $ python websocket_client.py
