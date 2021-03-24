@@ -13,7 +13,7 @@ pyasn1-modules==0.2.2
 PyAudio==0.2.11
 pytz==2018.7
 requests==2.20.1
-rsa==4.0
+rsa==4.1
 six==1.11.0
 urllib3==1.24.1
 websockets==6.0
